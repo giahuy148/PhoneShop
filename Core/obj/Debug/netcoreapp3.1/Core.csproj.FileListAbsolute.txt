@@ -1,9 +1,12 @@
 C:\Users\Razer\source\repos\PhoneShop\Core\bin\Debug\netcoreapp3.1\Core.deps.json
 C:\Users\Razer\source\repos\PhoneShop\Core\bin\Debug\netcoreapp3.1\Core.dll
 C:\Users\Razer\source\repos\PhoneShop\Core\bin\Debug\netcoreapp3.1\Core.pdb
-C:\Users\Razer\source\repos\PhoneShop\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
 C:\Users\Razer\source\repos\PhoneShop\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
 C:\Users\Razer\source\repos\PhoneShop\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
 C:\Users\Razer\source\repos\PhoneShop\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
 C:\Users\Razer\source\repos\PhoneShop\Core\obj\Debug\netcoreapp3.1\Core.dll
 C:\Users\Razer\source\repos\PhoneShop\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Razer\source\repos\PhoneShop\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\Razer\source\repos\PhoneShop\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.json
+C:\Users\Razer\source\repos\PhoneShop\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.dev.json
+C:\Users\Razer\source\repos\PhoneShop\Core\obj\Debug\netcoreapp3.1\Core.genruntimeconfig.cache

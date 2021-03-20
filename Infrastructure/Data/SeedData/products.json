@@ -1,0 +1,58 @@
+[
+  {
+    "Name": "Iphone 12",
+    "Description": "a",
+    "Price": "22,990,000.00",
+    "PictureUrl": "images/products/ip12.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Iphone 12 Pro Max",
+    "Description": "b",
+    "Price": "41,990,000.00",
+    "PictureUrl": "images/products/ip12pm.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Iphone 12 Mini",
+    "Description": "c",
+    "Price": "19,990,000.00",
+    "PictureUrl": "images/products/ip12mn.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Note 20",
+    "Description": "d",
+    "Price": "21,000,000.00",
+    "PictureUrl": "images/products/note20.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Galaxy A52",
+    "Description": "e",
+    "Price": "8,900,000.00",
+    "PictureUrl": "images/products/a52.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Galaxy S21",
+    "Description": "f",
+    "Price": "16,900,000.00",
+    "PictureUrl": "images/products/s21.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Galaxy A31",
+    "Description": "g",
+    "Price": "5,900,000.00",
+    "PictureUrl": "images/products/a31.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  }
+]
