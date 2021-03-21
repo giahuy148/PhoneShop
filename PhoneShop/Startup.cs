@@ -27,6 +27,7 @@ namespace PhoneShop
         {
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddControllers();
+            services.AddScoped( typeof(IGenericRepository<>),(typeof(GenericRepository<>)));
             services.AddDbContext<StoreContext>(x => x.UseSqlServer(_config.GetConnectionString("DefaultConnection")));
             services.AddSwaggerGen(c => c.SwaggerDoc("v1", new OpenApiInfo { Title="Swagger Phone Shop", Version = "v1" }));
         }
